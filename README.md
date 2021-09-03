@@ -24,3 +24,4 @@ Total Votes: 369,711
 - Winning Vote Count: 272,892
 - Winning Percentage: 73.8%
 ## Summary
+Modifying the script to generate voting results by county is just one of many ways that minor adjustments to the code can reveal critical data. For example, we can further determine the percentage of each county voted for each candidate by adding an if statement to the code. These types of decision statements are the way the code runs and calculates, and all we do is provide a data file for it. In addition, we can modify the program to determine which column to read data from by traversing the header row, and then analyze files with columns in different orders accordingly.
